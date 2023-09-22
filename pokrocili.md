@@ -30,4 +30,18 @@ při studiu jakéhokoliv oboru.
 
 Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
+## 1. hodina
+
+<a href="pokrocili-1-01-pc.jpg">
+    <img align="right" src="pokrocili-1-01-pc-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili-1-01-plan.jpg">
+    <img align="right" src="pokrocili-1-01-plan-small.jpg" style="height:85px">
+</a>
+
+* Brainstorming ohledně projektů na tento rok, následně 3-hlasé hlasování
+* Seznámení s naší online laboratoří
+  * Některé projekty vyžadují specifické programy a nastavení, proto jsem se letos rozhodl vyzkoušet virtuální laboratoř. Pro děti jsem připravil virtuální počítače (webtop kontejnery) ke kterým se přihlašují ze školních počítačů. Tyto počítače jsou "jejich", čili si za tento rok vyzkouší správu vlastního PC i práci s operačním systémem GNU/Linux.
+  * První úkol byl, změňte si pozadí, případně kurzory, panely a další
+
 <img align="right" src="../media/robots_bottom.jpg">

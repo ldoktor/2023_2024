@@ -22,6 +22,22 @@ při studiu jakéhokoliv oboru.
 
 Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
+
+## 1. hodina
+
+<a href="zacatecnici-1-01-beebot.jpg">
+    <img align="right" src="zacatecnici-1-01-beebot-small.jpg" style="height:85px">
+</a>
+<a href="zacatecnici-1-01-pc.jpg">
+    <img align="right" src="zacatecnici-1-01-pc-small.jpg" style="height:85px">
+</a>
+
+* Beeboti
+  * Pohyb vpřed a vzad
+* Seznámení s PC
+  * Přihlášení pomocí jména a hesla
+  * Práce s myší pomocí [decko zvěřince](https://decko.ceskatelevize.cz/tercin-zvireci-svet/zverinec)
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
