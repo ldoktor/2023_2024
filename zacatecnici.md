@@ -38,6 +38,18 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Přihlášení pomocí jména a hesla
   * Práce s myší pomocí [decko zvěřince](https://decko.ceskatelevize.cz/tercin-zvireci-svet/zverinec)
 
+## 2. hodina
+
+<a href="zacatecnici-1-02-code-org.jpg">
+    <img align="right" src="zacatecnici-1-02-code-org-small.jpg" style="height:85px">
+</a>
+
+* Stránky [www.code.org](https://www.code.org)
+  * Nastavení účtu
+  * Bludiště s Angry birds
+* Beeboti
+  * Umístění na podložce (souřadnice a směr - A1W, C3S, D6N, A2E, ...)
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

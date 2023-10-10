@@ -44,4 +44,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Některé projekty vyžadují specifické programy a nastavení, proto jsem se letos rozhodl vyzkoušet virtuální laboratoř. Pro děti jsem připravil virtuální počítače (webtop kontejnery) ke kterým se přihlašují ze školních počítačů. Tyto počítače jsou "jejich", čili si za tento rok vyzkouší správu vlastního PC i práci s operačním systémem GNU/Linux.
   * První úkol byl, změňte si pozadí, případně kurzory, panely a další
 
+## 2. hodina
+
+* Práce s online laboratoří
+  * Nastavení "svých" počítačů - pozadí, panely, barvy, fonty, ...
+
 <img align="right" src="../media/robots_bottom.jpg">

@@ -30,6 +30,8 @@ při studiu jakéhokoliv oboru.
 
 Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
+## 1. hodina
+
 <a href="pokrocili2-1-01-plan.jpg">
     <img align="right" src="pokrocili2-1-01-plan-small.jpg" style="height:85px">
 </a>
@@ -38,5 +40,12 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Seznámení s naší online laboratoří
   * Některé projekty vyžadují specifické programy a nastavení, proto jsem se letos rozhodl vyzkoušet virtuální laboratoř. Pro děti jsem připravil virtuální počítače (webtop kontejnery) ke kterým se přihlašují ze školních počítačů. Tyto počítače jsou "jejich", čili si za tento rok vyzkouší správu vlastního PC i práci s operačním systémem GNU/Linux.
   * První úkol byl, změňte si pozadí, případně kurzory, panely a další
+
+## 2. hodina
+
+* [Tvorba modů do Minetestu](https://rubenwardy.com/minetest_modding_book)
+  * Krátká připomínka hry [Minetest](https://www.minetest.net/) (opensource re-implementace Minecraftu s širokou podporou modů)
+  * Vytváření souborů v systému windows (nutno v nastavení povolit zobrazení přípony souboru, abychom mohli vytvářet soubory `.lua` a `.conf`)
+  * Vytvořili jsme základní strukturu našeho modu a započali s jeho tvorbou - `error` znamená chyba, text okolo nám napoví, co je potřeba udělat (použít pouze znaky [a-zA-Z0-9_] a podobně)
 
 <img align="right" src="../media/robots_bottom.jpg">
