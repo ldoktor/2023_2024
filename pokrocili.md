@@ -49,4 +49,18 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Práce s online laboratoří
   * Nastavení "svých" počítačů - pozadí, panely, barvy, fonty, ...
 
+## 3. hodina
+
+<a href="pokrocili-1-03-microbit2.jpg">
+    <img align="right" src="pokrocili-1-03-microbit2-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili-1-03-microbit.jpg">
+    <img align="right" src="pokrocili-1-03-microbit-small.jpg" style="height:85px">
+</a>
+
+* [Micro:bit](../assets/microbit)
+  * Seznámení s Micro:bitem, jaké má vstupy, jaké výstupy, který "šváb" je zodpovědný za co, kde je anténa, ...
+  * Ti co již Micro:bit znali tvořili program pro zaplnění obrazovky pomocí smyčky
+  * Ti co viděli Micro:bit prvně se seznámili s prostředím makecode, základními kategoriemi, hlavně způsobem uploadu programu do Micro:bitu a vytvořili první program
+
 <img align="right" src="../media/robots_bottom.jpg">

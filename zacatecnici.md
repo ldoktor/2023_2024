@@ -50,6 +50,18 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Beeboti
   * Umístění na podložce (souřadnice a směr - A1W, C3S, D6N, A2E, ...)
 
+## 3. hodina
+
+<a href="zacatecnici-1-03-pexeso.jpg">
+    <img align="right" src="zacatecnici-1-03-pexeso-small.jpg" style="height:85px">
+</a>
+
+* Beeboti
+  * Opakování umístění na podložce (B2W, E6N, ...)
+* Lidské pexeso (naprogramuj spolužáka a spusť; vyčkej na instrukce a proveď)
+* Stránky [www.code.org](https://www.code.org)
+  * Bludiště s Angry birds
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

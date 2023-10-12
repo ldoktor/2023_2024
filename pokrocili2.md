@@ -46,6 +46,16 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Tvorba modů do Minetestu](https://rubenwardy.com/minetest_modding_book)
   * Krátká připomínka hry [Minetest](https://www.minetest.net/) (opensource re-implementace Minecraftu s širokou podporou modů)
   * Vytváření souborů v systému windows (nutno v nastavení povolit zobrazení přípony souboru, abychom mohli vytvářet soubory `.lua` a `.conf`)
-  * Vytvořili jsme základní strukturu našeho modu a započali s jeho tvorbou - `error` znamená chyba, text okolo nám napoví, co je potřeba udělat (použít pouze znaky [a-zA-Z0-9_] a podobně)
+  * Vytvořili jsme základní strukturu našeho modu a započali s jeho tvorbou - `error` znamená chyba, text okolo nám napoví, co je potřeba udělat (použít pouze znaky `[a-zA-Z0-9_]` a podobně)
+
+## 3. hodina
+
+<a href="pokrocili2-1-03-minetest.jpg">
+    <img align="right" src="pokrocili2-1-03-minetest-small.jpg" style="height:85px">
+</a>
+
+* [Tvorba modů do Minetestu](https://rubenwardy.com/minetest_modding_book)
+  * Opakování toho, co jsme minule vytvořili a odladění nedodělků (převážně pojmenování modů/adresářů neodpovídající konvenci `[a-z0-9_]` a definici bloků s jiným prefixem než `$název_modu:`
+  * Tvorba textury k našemu bločku v programu Malování (doporučení na změnu velikosti obrázku na 32x32, uložení do adresáře `$mod/textures/$nazev_obrazku.png`)
 
 <img align="right" src="../media/robots_bottom.jpg">
