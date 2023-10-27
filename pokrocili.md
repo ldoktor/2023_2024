@@ -63,4 +63,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Ti co již Micro:bit znali tvořili program pro zaplnění obrazovky pomocí smyčky
   * Ti co viděli Micro:bit prvně se seznámili s prostředím makecode, základními kategoriemi, hlavně způsobem uploadu programu do Micro:bitu a vytvořili první program
 
+## 4. hodina
+
+* [Micro:bit](../assets/microbit)
+  * Pokračování v projektech z minula, zaměření na přepínání z bločků do textového kódu v jazyce Python (nesetkalo se prozatím s vřelým přijetím, asi prozatím setrváme v bločkách)
+
 <img align="right" src="../media/robots_bottom.jpg">

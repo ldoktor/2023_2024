@@ -62,6 +62,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Stránky [www.code.org](https://www.code.org)
   * Bludiště s Angry birds
 
+## 4. hodina
+
+* Stránky [www.code.org](https://www.code.org)
+  * Bludiště s Angry birds
+  * Věšina se již dostala i do Sklízeče
+* Opakovací písnička
+  * nácvik cyklů/opakování
+  * 3x(3xtlesk, 2x(levá nahoru, pravá nahoru), 3x tlesk, ...), hahaha
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

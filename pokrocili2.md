@@ -58,4 +58,18 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Opakování toho, co jsme minule vytvořili a odladění nedodělků (převážně pojmenování modů/adresářů neodpovídající konvenci `[a-z0-9_]` a definici bloků s jiným prefixem než `$název_modu:`
   * Tvorba textury k našemu bločku v programu Malování (doporučení na změnu velikosti obrázku na 32x32, uložení do adresáře `$mod/textures/$nazev_obrazku.png`)
 
+## 4. hodina
+
+* [Tvorba modů do Minetestu](https://rubenwardy.com/minetest_modding_book)
+  * Rychlá rekapitulace z minula, doladění názvů a správného umístění textury
+  * Lehký úvod do typů v programovacím jazyce Lua:
+    * číslo - 7
+    * text - `"toto je text"`
+    * seznam/pole - `{"jednotlive", "prvky", "seznamu"}`
+    * slovník/mapování - `{nazev="hodnota", dalsi="jina hodnota"}`
+  * Texturování každé strany zvlášť:
+    * Krychle má 6 stran
+    * (+Y, -Y, +X, -X, +Z, -Z)
+    * horní, dolní, levá, pravá, přední, zadní
+
 <img align="right" src="../media/robots_bottom.jpg">
