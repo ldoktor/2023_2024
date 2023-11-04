@@ -71,6 +71,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * nácvik cyklů/opakování
   * 3x(3xtlesk, 2x(levá nahoru, pravá nahoru), 3x tlesk, ...), hahaha
 
+## 5. hodina
+
+<a href="zacatecnici-1-05-cubetto.jpg">
+    <img align="right" src="zacatecnici-1-05-cubetto-small.jpg" style="height:85px">
+</a>
+
+* Stránky [www.code.org](https://www.code.org)
+  * Programování cyklů se sklízečem
+* Cubetto
+  * Krátké seznámení s robůtkem Cubetto (Kubík), který nám v následujících hodinách pomůže s opakováním/funkcemi
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

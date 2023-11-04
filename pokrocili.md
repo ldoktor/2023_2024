@@ -68,4 +68,41 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Micro:bit](../assets/microbit)
   * Pokračování v projektech z minula, zaměření na přepínání z bločků do textového kódu v jazyce Python (nesetkalo se prozatím s vřelým přijetím, asi prozatím setrváme v bločkách)
 
+## 5. hodina
+
+<a href="exkurze5-1-05.jpg">
+    <img align="right" src="exkurze5-1-05-small.jpg" style="height:85px">
+</a>
+<a href="exkurze4-1-05.jpg">
+    <img align="right" src="exkurze4-1-05-small.jpg" style="height:85px">
+</a>
+<a href="exkurze3-1-05.jpg">
+    <img align="right" src="exkurze3-1-05-small.jpg" style="height:85px">
+</a>
+<a href="exkurze2-1-05.jpg">
+    <img align="right" src="exkurze2-1-05-small.jpg" style="height:85px">
+</a>
+<a href="exkurze-1-05.jpg">
+    <img align="right" src="exkurze-1-05-small.jpg" style="height:85px">
+</a>
+
+* Exkurze do Kina Ostrov
+  * Všechny fotky ke stažení [zde](exkurze.zip)
+  * Indiánským během tam/zpět - od lampy k lampě běžím/jdu
+  * Osvětlení veřejných prostor z rozvaděče
+  * Technické zázemí kina/divadla - pult osvětlení, pult ozvučení, projektor s odvětráním, PC na pouštění filmů a spoustu kabelů označených a ve svazcích
+    * Osvětlení pomocí scén
+    * Výběr jednotlivých světel, intenzita, barva, směrování, šířka kuželu
+    * Ručně, programově
+  * Scéna, repro-bedny na kino ihned za plátnem (a po obvodu), spousta kladek
+  * Podzemí - Plynové kotle, tepelné okruhy, dálkové vytápění pomocí venkovní teploty
+  * Propadliště - černě natřené, zřídka kdy využívané
+  * Šatny
+  * Půda
+    * stará světla 1kW (výkon jako 17 klasických žárovek) - zapojeno do stmívačů, barva pomocí filtrů, poloha otočením, šířka kužele páčkou
+    * nové LED - zapojeno do zásuvky a na sběrnici, stmívají se digitálně; některé umí svítit barevně, obsahují motůrky pro otočení a šířku kužele
+    * vše přiděláno kovovými lanky (prozatím jim nikdy nic nespadlo)
+    * pohyblivé tyče na zavešení světel, šál, rekvizit i lidí
+  * Vzduchotechnika - kontroluje množství CO2, udržuje teplotu, využívá teplotu vnitřního vzduchu k ohřátí nového venkovního vzduchu, následně dohřeje teplou vodou z plynových kotlů; dlouhé zpoždění od spuštění
+
 <img align="right" src="../media/robots_bottom.jpg">
