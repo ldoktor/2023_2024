@@ -105,4 +105,19 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
     * pohyblivé tyče na zavešení světel, šál, rekvizit i lidí
   * Vzduchotechnika - kontroluje množství CO2, udržuje teplotu, využívá teplotu vnitřního vzduchu k ohřátí nového venkovního vzduchu, následně dohřeje teplou vodou z plynových kotlů; dlouhé zpoždění od spuštění
 
+## 6. hodina
+
+<a href="pokrocili-1-06-planovani.jpg">
+    <img align="right" src="pokrocili-1-06-planovani-small.jpg" style="height:85px">
+</a>
+
+* Shrnutí poznatků z exkurze
+* Projekt Kino
+  * Motivace
+  * Definice cílů (Kino, Film)
+  * Definice kroků (plán, řezání, lepení, kamera, osvětlení, ...)
+  * Domácí úkol:
+    * storyboard - A4 přeložit na 8 okének a načrtnout jednoduchý příběh na cca 30-60s
+    * přemýšlet o "hráčích" - lego, figurky, plastelína, vystřihovánky, ...
+
 <img align="right" src="../media/robots_bottom.jpg">

@@ -82,6 +82,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Cubetto
   * Krátké seznámení s robůtkem Cubetto (Kubík), který nám v následujících hodinách pomůže s opakováním/funkcemi
 
+## 6. hodina
+
+* Stránky [www.code.org](https://www.code.org)
+  * Programování cyklů se sklízečem, někdo již začal Laurela
+* Cubetto
+  * Jednotlivě řešení [úkolů](../assets/cubetto-ukoly.ods) na mapě
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

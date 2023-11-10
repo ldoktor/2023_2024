@@ -109,4 +109,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
     * pohyblivé tyče na zavešení světel, šál, rekvizit i lidí
   * Vzduchotechnika - kontroluje množství CO2, udržuje teplotu, využívá teplotu vnitřního vzduchu k ohřátí nového venkovního vzduchu, následně dohřeje teplou vodou z plynových kotlů; dlouhé zpoždění od spuštění
 
+## 6. hodina
+
+* Shrnutí poznatků z exkurze
+* [Tvorba modů do Minetestu](https://rubenwardy.com/minetest_modding_book)
+  * Tvorba komentářů - řádky začínající `--` jsou v jazyce Lua ignorovány a slouží pro naše poznámky
+  * Pokračování v texturách
+
 <img align="right" src="../media/robots_bottom.jpg">
