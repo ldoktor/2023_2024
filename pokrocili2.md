@@ -116,4 +116,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Tvorba komentářů - řádky začínající `--` jsou v jazyce Lua ignorovány a slouží pro naše poznámky
   * Pokračování v texturách
 
+## 7. hodina
+
+* Kino
+  * Studenti prezentovali jejich storyboardy, objevilo se několik zajímavých námětů. Máme dva finalisty - "Cesta do vesmíru" a "Rok v životě veverek". Za domácí úkol mají žáci rozpracovat jejich preferované téma, abychom mohli příště určit vítěze.
+* [Tvorba modů do Minetestu](https://rubenwardy.com/minetest_modding_book)
+  * Aplikování různých textur pro jednotlivé strany jednoho bločku
+
 <img align="right" src="../media/robots_bottom.jpg">

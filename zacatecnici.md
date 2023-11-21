@@ -89,6 +89,18 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Cubetto
   * Jednotlivě řešení [úkolů](../assets/cubetto-ukoly.ods) na mapě
 
+# 7. hodina
+
+<a href="zacatecnici-1-07-cubetto.jpg">
+    <img align="right" src="zacatecnici-1-07-cubetto-small.jpg" style="height:85px">
+</a>
+
+* Cubetto
+  * Společné opakování
+  * řešení [úkolů](../assets/cubetto-ukoly.ods) na mapě po dvojicích
+* Stránky [www.code.org](https://www.code.org)
+  * Programování cyklů se sklízečem, někdo již začal Laurela
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

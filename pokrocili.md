@@ -120,4 +120,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
     * storyboard - A4 přeložit na 8 okének a načrtnout jednoduchý příběh na cca 30-60s
     * přemýšlet o "hráčích" - lego, figurky, plastelína, vystřihovánky, ...
 
+## 7. hodina
+
+<a href="pokrocili-1-07-kino.jpg">
+    <img align="right" src="pokrocili-1-07-kino-small.jpg" style="height:85px">
+</a>
+
+* Projekt Kino
+  * Studenti prezentovali jejich storyboardy, objevilo se několik zajímavých námětů, nakonec jsme zvolili cestu do vesmíru
+  * Jedna skupinka vyráběla testovací objekty (raketu, paňáčky) a zkoušeli jejich využití
+  * Druhá skupina se zaměřila na tvorbu kina, nejprve jsme dělali náčrtky, poté malý, testovací model a po určení rozměrů jsme začali připravovat model finální
+
 <img align="right" src="../media/robots_bottom.jpg">
