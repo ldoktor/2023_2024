@@ -131,4 +131,24 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Jedna skupinka vyráběla testovací objekty (raketu, paňáčky) a zkoušeli jejich využití
   * Druhá skupina se zaměřila na tvorbu kina, nejprve jsme dělali náčrtky, poté malý, testovací model a po určení rozměrů jsme začali připravovat model finální
 
+## 8. hodina
+
+<a href="pokrocili-1-08-kino.jpg">
+    <img align="right" src="pokrocili-1-08-kino-small.jpg" style="height:85px">
+</a>
+
+* Projekt Kino
+  * Opět jsme se rozdělili na mini-skupinky, jedna tvořila modely, druhá řezala a lepila kino
+
+## 9. hodina
+
+<a href="pokrocili-1-09-kino.jpg">
+    <img align="right" src="pokrocili-1-09-kino-small.jpg" style="height:85px">
+</a>
+
+* Projekt Kino
+  * Jedna skupinka vymýšlela, jak přichytit a ovládat oponu (potřebujeme provázky)
+  * Druhá skupinka malovala kino
+  * Třetí skupinka dělala pokusy s natáčením jednoduché stop-motion animace (zjisili jsme, že potřebujeme kabel, protože fotky nelze sdílet přes WiFi)
+
 <img align="right" src="../media/robots_bottom.jpg">

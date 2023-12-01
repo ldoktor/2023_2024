@@ -123,4 +123,19 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Tvorba modů do Minetestu](https://rubenwardy.com/minetest_modding_book)
   * Aplikování různých textur pro jednotlivé strany jednoho bločku
 
+## 8. hodina
+
+* [Tvorba modů do Minetestu](https://rubenwardy.com/minetest_modding_book)
+  * Dodělání různých textur pro jednotlivé strany bločku
+  * Úvod do definice obsluhy různých událostí (klik pravým tlačítkem na blok, postavení bločku, ...)
+
+## 9. hodina
+
+* [Tvorba modů do Minetestu](https://rubenwardy.com/minetest_modding_book)
+  * Pokračování v definicích obsluhy událostí
+    * klik levým tlačítkem na postavený bloček - `on_punch(pozice, blocek, kdo_klikl, kam_ukazuje)`
+    * klik pravým tlačítkem na postavený bloček - `on_rightclick(pozice, blocek, kdo_klikl, kam_ukazuje)`
+    * postavení bločku - `on_construct(pozice, blocek)`
+    * postavení bločku - více možností - `after_place_node(pozice, blocek, kdo_klikl, zasobnik, kam_ukazuje)`
+
 <img align="right" src="../media/robots_bottom.jpg">

@@ -89,7 +89,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Cubetto
   * Jednotlivě řešení [úkolů](../assets/cubetto-ukoly.ods) na mapě
 
-# 7. hodina
+## 7. hodina
 
 <a href="zacatecnici-1-07-cubetto.jpg">
     <img align="right" src="zacatecnici-1-07-cubetto-small.jpg" style="height:85px">
@@ -100,6 +100,25 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * řešení [úkolů](../assets/cubetto-ukoly.ods) na mapě po dvojicích
 * Stránky [www.code.org](https://www.code.org)
   * Programování cyklů se sklízečem, někdo již začal Laurela
+
+## 8. hodina
+
+<a href="zacatecnici-1-08-cubetto.jpg">
+    <img align="right" src="zacatecnici-1-08-cubetto-small.jpg" style="height:85px">
+</a>
+
+* Cubetto
+  * pokračování v řešení [úkolů](../assets/cubetto-ukoly.ods) na mapě společně
+
+## 9. hodina
+
+<a href="zacatecnici-1-09-code-org.jpg">
+    <img align="right" src="zacatecnici-1-09-code-org-small.jpg" style="height:85px">
+</a>
+
+* Stránky [www.code.org](https://www.code.org)
+  * Cykly s Laurelem, někteří se dostali i na kreslení zahrad
+* Na závěr za odměnu děti zkusily [Minetest](https://www.minetest.net/), některé pak [OpenTTD](https://www.openttd.org/)
 
 * * * * * * * * *
 
