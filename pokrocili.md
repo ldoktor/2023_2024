@@ -151,4 +151,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Druhá skupinka malovala kino
   * Třetí skupinka dělala pokusy s natáčením jednoduché stop-motion animace (zjisili jsme, že potřebujeme kabel, protože fotky nelze sdílet přes WiFi)
 
+## 10. hodina
+
+<a href="pokrocili-1-10-kino.jpg">
+    <img align="right" src="pokrocili-1-10-kino-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili-1-10-kdenlive.jpg">
+    <img align="right" src="pokrocili-1-10-kdenlive-small.jpg" style="height:85px">
+</a>
+
+* Projek Kino
+  * Jedna skupina se věnovala oponě
+  * Druhá skupina zkoušela zkrotit [Kdenlive](https://kdenlive.org/) - open source nástroj na editování videa
+
 <img align="right" src="../media/robots_bottom.jpg">

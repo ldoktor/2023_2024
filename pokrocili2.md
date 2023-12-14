@@ -138,4 +138,12 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
     * postavení bločku - `on_construct(pozice, blocek)`
     * postavení bločku - více možností - `after_place_node(pozice, blocek, kdo_klikl, zasobnik, kam_ukazuje)`
 
+## 10. hodina
+
+* [Tvorba modů do Minetestu](../assets/minetest)
+  * Pokračování v definicích obsluhy událostí
+  * Nahrávání zvuků pomocí [online editoru zvuku](https://editor.audio/) ve formátu ``wav/mp3`` (neznámý původ, nepoužívat na důležité/citlivé nahrávání)
+  * Konvertování zvuku do ``ogg`` pomocí [online konvertoru](https://convertio.co/mp3-ogg/) (neznámý původ, nepoužívat na důležité/citlivé nahrávky)
+  * Přidání zvuků do módu pomocí ``minetest.sound_play("nazev_bez_pripony_ogg")``
+
 <img align="right" src="../media/robots_bottom.jpg">

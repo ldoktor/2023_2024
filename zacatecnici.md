@@ -120,6 +120,18 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Cykly s Laurelem, někteří se dostali i na kreslení zahrad
 * Na závěr za odměnu děti zkusily [Minetest](https://www.minetest.net/), některé pak [OpenTTD](https://www.openttd.org/)
 
+## 10. hodina
+
+<a href="zacatecnici-1-10-andel.jpg">
+    <img align="right" src="zacatecnici-1-10-andel-small.jpg" style="height:85px">
+</a>
+
+* Anděl
+  * Seznámení se zvukovými funkcemi Beebota
+  * Seznámení s hudební notovou osnovou (výška tónu, délka tónu, pořadí)
+  * Tvorba melodie pomocí Beebota
+  * Výroba [převleku](https://blog.tts-group.co.uk/wp-content/uploads/2019/03/Bee-Bot_Jacket.pdf) pro Beebota
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
