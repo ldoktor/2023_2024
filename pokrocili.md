@@ -164,4 +164,18 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Jedna skupina se věnovala oponě
   * Druhá skupina zkoušela zkrotit [Kdenlive](https://kdenlive.org/) - open source nástroj na editování videa
 
+## 11. hodina
+
+<a href="pokrocili-1-11-kino2.jpg">
+    <img align="right" src="pokrocili-1-11-kino2-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili-1-11-kino.jpg">
+    <img align="right" src="pokrocili-1-11-kino-small.jpg" style="height:85px">
+</a>
+
+* Projekt Kino
+  * Jedna skupina testovala LED diody (zvyšování napětí do rozsvícení diody a postupné zvyšování napětí dokud plynule roste jas beze změny barvy; kontrola procházejícího proudu, rozhodně ne nad 30mA!)
+  * Druhá skupina objevovala [Kdenlive](https://kdenlive.org/) - převážně titulky a trošku efekty
+  * Zkušební spálení diody vysokým proudem (poměrně nudně prostě přestala svítit ale pozor, někdy se umí i rozstřelit!)
+
 <img align="right" src="../media/robots_bottom.jpg">

@@ -132,6 +132,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Tvorba melodie pomocí Beebota
   * Výroba [převleku](https://blog.tts-group.co.uk/wp-content/uploads/2019/03/Bee-Bot_Jacket.pdf) pro Beebota
 
+## 11. hodina
+
+<a href="zacatecnici-1-11-koledy.jpg">
+    <img align="right" src="zacatecnici-1-11-koledy-small.jpg" style="height:85px">
+</a>
+
+* Koledy
+  * Dodělání [převleků](https://blog.tts-group.co.uk/wp-content/uploads/2019/03/Bee-Bot_Jacket.pdf) pro Beebota
+  * Opakování hudební notové osnovy
+  * Tvorba melodie pomocí Beebota
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

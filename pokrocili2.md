@@ -146,4 +146,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Konvertování zvuku do ``ogg`` pomocí [online konvertoru](https://convertio.co/mp3-ogg/) (neznámý původ, nepoužívat na důležité/citlivé nahrávky)
   * Přidání zvuků do módu pomocí ``minetest.sound_play("nazev_bez_pripony_ogg")``
 
+## 11. hodina
+
+<a href="pokrocili2-1-11-minetest.jpg">
+    <img align="right" src="pokrocili2-1-11-minetest-small.jpg" style="height:85px">
+</a>
+
+* [Tvorba modů do Minetestu](../assets/minetest)
+  * Pokračování tvorby zvuků s různými efekty pomocí [online editoru zvuku](https://editor.audio/) s následnou konverzí do ``ogg`` pomocí [online konvertoru](https://convertio.co/mp3-ogg/) (určitě existují lepší programy, leč školní počítače nejsou naše; pozor na soukromí, nepoužívat na důležité/citlivé nahrávky)
+
 <img align="right" src="../media/robots_bottom.jpg">
