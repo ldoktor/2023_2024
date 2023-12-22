@@ -178,4 +178,12 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Druhá skupina objevovala [Kdenlive](https://kdenlive.org/) - převážně titulky a trošku efekty
   * Zkušební spálení diody vysokým proudem (poměrně nudně prostě přestala svítit ale pozor, někdy se umí i rozstřelit!)
 
+## 12. hodina
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Představení technického řešení ovládání světel
+  * Lehké seznámení s prostředím [micropythonu](https://python.microbit.org/v/3)
+  * Ukázka bezdrátového ovládání světel pomocí GUI na počítači
+  * Nepovedený pokus o rozsvícení světelného pásku
+
 <img align="right" src="../media/robots_bottom.jpg">

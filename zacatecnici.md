@@ -143,6 +143,23 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Opakování hudební notové osnovy
   * Tvorba melodie pomocí Beebota
 
+## 12. hodina
+
+<a href="zacatecnici-1-12-rle.jpg">
+    <img align="right" src="zacatecnici-1-12-rle-small.jpg" style="height:85px">
+</a>
+<a href="zacatecnici-1-12-koledy.jpg">
+    <img align="right" src="zacatecnici-1-12-koledy-small.jpg" style="height:85px">
+</a>
+
+* RLE - Run Length Encoding
+  * Jednoduché kódování používané dříve v grafických kratách
+  * Definuje počet opakování stejné hodnoty/barvy, zpravidla se střídají 2 hodnoty/barvy
+  * Děti "dekódovali" řádky [vánočních obrázků](../assets/rle-vanoce.pdf) ([ods](../assets/rle-vanoce.ods))
+* Koledy
+  * Krátká rekapitulace notové osnovy a procesu transformace notového zápisu na program pro včelky
+  * Z důvodu nedostatku času pak pouze krátká ukázka koledy "Narodil se Kristus Pán" v podání 3 včelek-andílků
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
