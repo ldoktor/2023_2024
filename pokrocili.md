@@ -186,4 +186,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Ukázka bezdrátového ovládání světel pomocí GUI na počítači
   * Nepovedený pokus o rozsvícení světelného pásku
 
+## 13. hodina
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Práce v prostředí [micropythonu](https://python.microbit.org/v/3)
+  * Klávesové zkratky: ``ctrl+c``, ``ctrl+v`` a ``ctrl+z`` (případně pravé tlačítko a kopírovat, vložit případně soubor a zpět)
+  * Lehký úvod do jazyka Python (micropython), naučili jsme se změnit kanál, na kterém microbit komunikuje ``radio.config(group=25)``
+
 <img align="right" src="../media/robots_bottom.jpg">

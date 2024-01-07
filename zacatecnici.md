@@ -160,6 +160,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Krátká rekapitulace notové osnovy a procesu transformace notového zápisu na program pro včelky
   * Z důvodu nedostatku času pak pouze krátká ukázka koledy "Narodil se Kristus Pán" v podání 3 včelek-andílků
 
+## 13. hodina
+
+<a href="zacatecnici-1-13-roboti.jpg">
+    <img align="right" src="zacatecnici-1-13-roboti-small.jpg" style="height:85px">
+</a>
+
+* RLE - Run Length Encoding
+  * Kdo měl zájem pokračoval v obrázcích kódovaných pomocí RLE a jejich realizaci pomocí oboustranné lepicí pásky a 5D diamantů
+* Ricochet Robots
+  * Ostatní zkoušeli informatickou deskovku Ricochet Robots kde se snaží najít optimální cesty pro roboty s rozbitými brzdami
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

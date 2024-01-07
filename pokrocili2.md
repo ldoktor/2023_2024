@@ -164,4 +164,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Tvorba modů do Minetestu](../assets/minetest)
   * Dokončení modů a jejich testování ve společné hře
 
+## 13. hodina
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Představení technického řešení ovládání světel
+  * Lehké seznámení s prostředím [micropythonu](https://python.microbit.org/v/3)
+  * Klávesové zkratky: ``ctrl+c``, ``ctrl+v`` a ``ctrl+z`` (případně pravé tlačítko a kopírovat, vložit případně soubor a zpět)
+  * Ukázka bezdrátového ovládání světel pomocí GUI na počítači
+
+
 <img align="right" src="../media/robots_bottom.jpg">
