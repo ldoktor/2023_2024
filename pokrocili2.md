@@ -172,5 +172,14 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Klávesové zkratky: ``ctrl+c``, ``ctrl+v`` a ``ctrl+z`` (případně pravé tlačítko a kopírovat, vložit případně soubor a zpět)
   * Ukázka bezdrátového ovládání světel pomocí GUI na počítači
 
+## 14. hodina
+
+<a href="pokrocili2-1-14-kino.jpg">
+    <img align="right" src="pokrocili2-1-14-kino-small.jpg" style="height:85px">
+</a>
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Připojili jsme si k microbitu diodu na určitý pin a otestovali jsme její ovládání
+  * Začali jsme testovat které piny můžeme využít pro ovládání dalších diod
 
 <img align="right" src="../media/robots_bottom.jpg">

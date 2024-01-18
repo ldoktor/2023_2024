@@ -171,6 +171,16 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Ricochet Robots
   * Ostatní zkoušeli informatickou deskovku Ricochet Robots kde se snaží najít optimální cesty pro roboty s rozbitými brzdami
 
+## 14. hodina
+
+<a href="zacatecnici-1-14-boffin.jpg">
+    <img align="right" src="zacatecnici-1-14-boffin-small.jpg" style="height:85px">
+</a>
+
+* Elektrická stavebnice Boffin
+  * S pomocí [videa](https://www.youtube.com/watch?v=mc979OhitAg&list=PLWv9VM947MKi_7yJ0_FCfzTBXpQU-Qd3K&index=1&pp=iAQB) jsme si řekli něco málo o atomech, vodivosti a elektřině
+  * Následně jsme vyzkoušeli několik zapojení stavebnice Boffin
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
