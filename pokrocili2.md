@@ -182,4 +182,16 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Připojili jsme si k microbitu diodu na určitý pin a otestovali jsme její ovládání
   * Začali jsme testovat které piny můžeme využít pro ovládání dalších diod
 
+## 15. hodina
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Ukázali jsme si jak funguje nepájivé kontaktní pole (breadboard)
+  * Vyzkoušeli jsme si připojení několika diod přímo a následně více diod s pomocí výkonového tranzistoru NPN TIP120:
+    * 5V z "pevného" zdroje připojíme na vstup tranzistoru - Collector (2. pin)
+    * Výstup z tranzistoru - Emitter (3. pin) přivedeme na diody
+    * Druhý pin diody připojíme na zem - GND
+    * Ovládací pin z microprocesoru (či 3V) přivedeme na ovládací vstup tranzistoru - Bázi (1. pin)
+    * Výsledkem je že malým proudem přivedeným na bázi můžeme otevřít a zavřít obvod mezi Collectorem a Emitterem, čili
+ rozsvěcet a zhasínat diody (či jinou zátěž až 5A a 60V!)
+
 <img align="right" src="../media/robots_bottom.jpg">

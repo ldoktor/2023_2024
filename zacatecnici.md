@@ -181,6 +181,12 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * S pomocí [videa](https://www.youtube.com/watch?v=mc979OhitAg&list=PLWv9VM947MKi_7yJ0_FCfzTBXpQU-Qd3K&index=1&pp=iAQB) jsme si řekli něco málo o atomech, vodivosti a elektřině
   * Následně jsme vyzkoušeli několik zapojení stavebnice Boffin
 
+## 15. hodina
+
+* Elektrická stavebnice Boffin
+  * Dnes byla spíš zábavná hodina zaměřena na stavbu projektů dle vlastního uvážení
+  * Vysvětlili jsme si princip "větrákového LED displaye" (ledky jsou umístěny na vrtulce a "počítač" je rozsvěcí a zhasíná v závislosti na poloze vrtulky a tím umožňuje zobrazení jednoduchých tvarů, např. písmen)
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
