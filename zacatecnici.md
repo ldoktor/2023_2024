@@ -187,6 +187,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Dnes byla spíš zábavná hodina zaměřena na stavbu projektů dle vlastního uvážení
   * Vysvětlili jsme si princip "větrákového LED displaye" (ledky jsou umístěny na vrtulce a "počítač" je rozsvěcí a zhasíná v závislosti na poloze vrtulky a tím umožňuje zobrazení jednoduchých tvarů, např. písmen)
 
+## 16. hodina
+
+* Elektrická stavebnice Boffin
+  * Pokračování v elektrických obvodech, zaměřili jsme se na vodivost a "disco kouli"
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

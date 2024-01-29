@@ -194,4 +194,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
     * Výsledkem je že malým proudem přivedeným na bázi můžeme otevřít a zavřít obvod mezi Collectorem a Emitterem, čili
  rozsvěcet a zhasínat diody (či jinou zátěž až 5A a 60V!)
 
+## 16. hodina
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Začli jsme instalovat diody do lešení z lega nad scénou a rozdělením okruhů na 5 microbitů (popisky pomocí lepiček)
+
 <img align="right" src="../media/robots_bottom.jpg">

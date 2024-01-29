@@ -214,4 +214,10 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
     * Ovládací pin z microprocesoru (či 3V) přivedeme na ovládací vstup tranzistoru - Bázi (1. pin)
     * Výsledkem je že malým proudem přivedeným na bázi můžeme otevřít a zavřít obvod mezi Collectorem a Emitterem, čili rozsvěcet a zhasínat diody (či jinou zátěž až 5A a 60V!)
 
+## 16. hodina
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Z lega jsme vytvořili "lešení" tak, aby se nepohybovala a zároveň umožnila vložení LED diod
+  * Začli jsme s instalací barevného LED pásku
+
 <img align="right" src="../media/robots_bottom.jpg">
