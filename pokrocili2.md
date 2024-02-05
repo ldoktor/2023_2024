@@ -199,4 +199,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Projekt Kino](../assets/microbit/kino)
   * Začli jsme instalovat diody do lešení z lega nad scénou a rozdělením okruhů na 5 microbitů (popisky pomocí lepiček)
 
+<hr>
+
+## 17. hodina
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Po jednom ukázka pájení drátů k diodám
+  * Zbytek vždy "odpočíval" u <a href="https://scratch.mit.edu/projects/editor/">Scratche</a>
+
+
 <img align="right" src="../media/robots_bottom.jpg">

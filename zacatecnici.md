@@ -192,6 +192,24 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Elektrická stavebnice Boffin
   * Pokračování v elektrických obvodech, zaměřili jsme se na vodivost a "disco kouli"
 
+<hr>
+
+## 17. hodina
+
+<a href="zacatecnici-2-01-tesla.jpg">
+    <img align="right" src="zacatecnici-2-01-tesla-small.jpg" style="height:85px">
+</a>
+
+* Lehký úvod do elektroniky
+  * Vysvětlení pojmu "napětí" <a href="https://www.youtube.com/watch?v=w82aSjLuD_8">pěkné video zde</a>
+  * <a href="https://cs.wikipedia.org/wiki/Tesl%C5%AFv_transform%C3%A1tor">Teslův transformátor</a>
+    * malinký transformátor z Aliexpresu
+    * vytahování oblouku pomocí klíčů
+    * přehrávání hudby pomocí jiskření
+    * bezdrátové rozsvěcení úsporných žárovek, diod a tlumivek
+* Elektrická stavebnice Boffin
+  * Kdo neměl zájem o Teslův transformátor skládal projekty z Boffinu
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
