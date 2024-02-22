@@ -210,6 +210,20 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Elektrická stavebnice Boffin
   * Kdo neměl zájem o Teslův transformátor skládal projekty z Boffinu
 
+## 18. hodina
+
+<a href="zacatecnici-2-02-scratch.jpg">
+    <img align="right" src="zacatecnici-2-02-scratch-small.jpg" style="height:85px">
+</a>
+
+* [scratch](https://scratch.mit.edu)
+  * Seznámení s prostředím
+  * V pravo nahoře je okno hry
+  * Pod oknem hry jsou postavy/sprity
+  * Na pravo od postav je úzká nudle s pozadími
+  * Levá polovina souvisí s vybraným objektem (postava či pozadí) a umožňuje upravovat scénáře, kostýmy či zvuky (přepínáno pomocí "tabů" v levé horní části
+  * Vyzkoušeli jsme si změnit pozadí, přidat několik postav, změnit jejich pozici, velikost i natočení a v neposlední řadě i upravovat kostýmy
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

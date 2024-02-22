@@ -228,4 +228,19 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Po jednom ukázka pájení drátů k diodám
   * Zbytek vždy "odpočíval" u <a href="https://scratch.mit.edu/projects/editor/">Scratche</a>
 
+## 18. hodina
+
+<a href="pokrocili-2-02-krita.jpg">
+    <img align="right" src="pokrocili-2-02-krita-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili-2-02-kino.jpg">
+    <img align="right" src="pokrocili-2-02-kino-small.jpg" style="height:85px">
+</a>
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Otestování propojení zemí pomocí multimetru
+  * Zapojení tranzistorů do nepájivých polí (breadboardů) a následné připojení k diodám
+* Grafický tablet
+  * 2 dobrovolníci testovali tvorbu obrázku (čáry, obloučky, stíny, 3d objekt a vlastní tvorbu) pomocí grafického tabletu a pro srovnání pomocí trackpointu (postuně se vystřídají všichni)
+
 <img align="right" src="../media/robots_bottom.jpg">
