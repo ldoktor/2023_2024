@@ -243,4 +243,20 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Grafický tablet
   * 2 dobrovolníci testovali tvorbu obrázku (čáry, obloučky, stíny, 3d objekt a vlastní tvorbu) pomocí grafického tabletu a pro srovnání pomocí trackpointu (postuně se vystřídají všichni)
 
+## 19. hodina
+
+<a href="pokrocili-2-03-kino.jpg">
+    <img align="right" src="pokrocili-2-03-kino-small.jpg" style="height:85px">
+</a>
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Kontrola zapojení pomocí multimetru
+  * Uchycení microbit destiček ke konstrukci
+  * Propojování výstupů microbitu k tranzistorům
+    * napětí se přivede na Colector, dioda se připojí k Emitoru a výstup z microbitu k bázi
+    * obyčejný NPN BC337 má výstupy Colector, Báze, Emitor
+    * výkonový NPN TIP120 má výstupy Báze, Colector, Emitor
+* Grafický tablet
+  * 2 dobrovolníci testovali tvorbu obrázku (čáry, obloučky, stíny, 3d objekt a vlastní tvorbu) pomocí grafického tabletu a pro srovnání pomocí myši (postuně se vystřídají všichni)
+
 <img align="right" src="../media/robots_bottom.jpg">

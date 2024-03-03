@@ -224,6 +224,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Levá polovina souvisí s vybraným objektem (postava či pozadí) a umožňuje upravovat scénáře, kostýmy či zvuky (přepínáno pomocí "tabů" v levé horní části
   * Vyzkoušeli jsme si změnit pozadí, přidat několik postav, změnit jejich pozici, velikost i natočení a v neposlední řadě i upravovat kostýmy
 
+## 19. hodina
+
+* [scratch](https://scratch.mit.edu)
+  * Opakování z minula
+  * Úvod do zvuků
+  * Vysvětlení pojmu "Události" a otestování prvního kódu (po kliknutí na mě přehraj zvuk do konce)
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
