@@ -262,7 +262,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Projekt Kino](../assets/microbit/kino)
   * Kontrola zapojení pomocí multimetru
   * Propojování výstupů microbitu k tranzistorům
-    * napětí se přivede na Colector, dioda se připojí k Emitoru a výstup z microbitu k bázi
+    * napětí bezpečné pro všechny diody se přivede na diody, odtud na Colector tranzistoru. Emitor se svede na zem a propojí se zemí microbitu. Výstup z pinu microbitu připojíme (správně přes rezistor) k bázi
     * obyčejný NPN BC337 má výstupy Colector, Báze, Emitor
     * výkonový NPN TIP120 má výstupy Báze, Colector, Emitor
 * Grafický tablet
