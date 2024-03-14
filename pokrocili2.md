@@ -228,6 +228,36 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 <a href="pokrocili2-2-03-kino.jpg">
     <img align="right" src="pokrocili2-2-03-kino-small.jpg" style="height:85px">
 </a>
+<a href="pokrocili2-2-03-malovani-mys1.jpg">
+    <img align="right" src="pokrocili2-2-03-malovani-mys1-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili2-2-03-malovani-mys2.jpg">
+    <img align="right" src="pokrocili2-2-03-malovani-mys2-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili2-2-03-malovani-mys3.jpg">
+    <img align="right" src="pokrocili2-2-03-malovani-mys3-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili2-2-03-malovani-mys4.jpg">
+    <img align="right" src="pokrocili2-2-03-malovani-mys4-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili2-2-03-malovani-tablet1.jpg">
+    <img align="right" src="pokrocili2-2-03-malovani-tablet1-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili2-2-03-malovani-tablet2.jpg">
+    <img align="right" src="pokrocili2-2-03-malovani-tablet2-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili2-2-03-malovani-tablet3.jpg">
+    <img align="right" src="pokrocili2-2-03-malovani-tablet3-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili2-2-03-malovani-tablet4.jpg">
+    <img align="right" src="pokrocili2-2-03-malovani-tablet4-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili-2-03-malovani-tablet-ukazka.jpg">
+    <img align="right" src="pokrocili-2-03-malovani-tablet-ukazka-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili-2-03-malovani-zadani.jpg">
+    <img align="right" src="pokrocili-2-03-malovani-zadani-small.jpg" style="height:85px">
+</a>
 
 * [Projekt Kino](../assets/microbit/kino)
   * Kontrola zapojení pomocí multimetru
