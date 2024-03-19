@@ -231,6 +231,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Úvod do zvuků
   * Vysvětlení pojmu "Události" a otestování prvního kódu (po kliknutí na mě přehraj zvuk do konce)
 
+## 20. hodina
+
+<a href="zacatecnici-2-04-scratch.jpg">
+    <img align="right" src="zacatecnici-2-04-scratch-small.jpg" style="height:85px">
+</a>
+
+* [scratch](https://scratch.mit.edu)
+  * Opakování a rozšíření naší hry "chytni kočku" [ukázka](https://scratch.mit.edu/projects/470669556) (naše verze ještě nezrychlovala, ale počítala již body)
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

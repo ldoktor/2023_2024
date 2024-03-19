@@ -295,4 +295,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Grafický tablet
   * 2 dobrovolníci testovali tvorbu obrázku (čáry, obloučky, stíny, 3d objekt a vlastní tvorbu) pomocí grafického tabletu a pro srovnání pomocí myši (postuně se vystřídají všichni)
 
+## 20. hodina
+
+<a href="pokrocili-2-04-kino2.jpg">
+    <img align="right" src="pokrocili-2-04-kino2-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili-2-04-kino.jpg">
+    <img align="right" src="pokrocili-2-04-kino-small.jpg" style="height:85px">
+</a>
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Výměna ledek za programovatelný led-pásek (ledky měli nedostatečný svit)
+  * Krátký test ovládání pomocí grafického rozhraní se 3 moduly na světlo (barva, pozice, šířka)
+
 <img align="right" src="../media/robots_bottom.jpg">
