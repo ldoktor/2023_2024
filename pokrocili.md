@@ -308,4 +308,14 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Výměna ledek za programovatelný led-pásek (ledky měli nedostatečný svit)
   * Krátký test ovládání pomocí grafického rozhraní se 3 moduly na světlo (barva, pozice, šířka)
 
+## 21. hodina
+
+<a href="pokrocili-2-05-kino.jpg">
+    <img align="right" src="pokrocili-2-05-kino-small.jpg" style="height:85px">
+</a>
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Prošli jsme si jak funguje [skript](../assets/microbit/kino#nat%C3%A1%C4%8Den%C3%AD-stop-motion-animace), který po stisku klávesy `ENTER` pořídil fotografii na telefonu, stáhl ji do počítače, zobrazil ji a zároveň kombinaci předchozí a současné fotky vedle sebe.
+  * Nafotili krátký příběh o policistce a skřítkovi
+
 <img align="right" src="../media/robots_bottom.jpg">
