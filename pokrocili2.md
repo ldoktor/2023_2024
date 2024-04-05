@@ -292,4 +292,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Prošli jsme si jak funguje [skript](../assets/microbit/kino#nat%C3%A1%C4%8Den%C3%AD-stop-motion-animace), který po stisku klávesy `ENTER` pořídil fotografii na telefonu, stáhl ji do počítače, zobrazil ji a zároveň kombinaci předchozí a současné fotky vedle sebe.
   * Nafotili krátký příběh o policistce a skřítkovi
 
+## 22. hodina
+
+<a href="pokrocili2-2-06-kino.jpg">
+    <img align="right" src="pokrocili2-2-06-kino-small.jpg" style="height:85px">
+</a>
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Shlédli jsme testovací verzi animace z materiálu z předchozí hodiny a rozhodli jsme se pouze znovu natočit stejný scénář s jemnějším krokem a drobnými úpravami abychom měli více času na počítačové efekty.
+  * "Opravili" jsme problém s nažloutlým a pohaslým světlem při plném světle LED pásku připojením napájení z obou stran (bylo by za potřebí připojit ještě další větev cca uprostřed, pásek je hodně dlouhý)
+  * Pustili jsme se do natáčení
+
 <img align="right" src="../media/robots_bottom.jpg">

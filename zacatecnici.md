@@ -246,6 +246,16 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Přihlášení do Scratche, abychom mohli začít více-hodinový projekt "Chytání velikonočních vajíček"
   * Ukázali jsme si ovládání postavy pomocí události ``Po stisku klávesy [XXX]``, nevýhodou je, že se postavička posune, zastaví a pak začne utíkat jako divá. Proto jsme nahradili ovládání pomocí události tzv. ``polling``-em (tzn. periodickým dotazováním se na stav). Vytvořili jsme nekonečnou smyčku, ve které jsme se vždy zeptali pomocí ``když [je stisknuta klávesa "šipka doprava"]`` a ``když [je stisknuta klávesa "šipka doleva"]``, jestli hráč mačká požadované tlačítka a pokud ano, otočili jsme postavičku požadovaným směrem a posunuli ji o danou vzdálenost.
 
+## 22. hodina
+
+<a href="zacatecnici-2-06-scratch.jpg">
+    <img align="right" src="zacatecnici-2-06-scratch-small.jpg" style="height:85px">
+</a>
+
+* [scratch](https://scratch.mit.edu)
+  * Hrou u tabule jsme si zopakovali funkci pohybu pomocí událostí
+  * Vytvořili jsme gravitaci a nechali padat objekty shora dolů
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
