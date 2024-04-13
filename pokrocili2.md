@@ -303,4 +303,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * "Opravili" jsme problém s nažloutlým a pohaslým světlem při plném světle LED pásku připojením napájení z obou stran (bylo by za potřebí připojit ještě další větev cca uprostřed, pásek je hodně dlouhý)
   * Pustili jsme se do natáčení
 
+## 23. hodina
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Využili jsme pozadí od předchozí skupiny a natočili novou verzi příběhu včetně pohyblivého pozadí
+
 <img align="right" src="../media/robots_bottom.jpg">

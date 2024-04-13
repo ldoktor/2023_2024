@@ -256,6 +256,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Hrou u tabule jsme si zopakovali funkci pohybu pomocí událostí
   * Vytvořili jsme gravitaci a nechali padat objekty shora dolů
 
+## 23. hodina
+
+* [scratch](https://scratch.mit.edu)
+  * Opakování gravitace (90° vpravo, 180° dolů, -90° vlevo a 0° nahoru)
+  * Vysvětlení "klonování" objektů (vytvoříme jeden objekt, použijeme "klonuj sebe" a co se bude dít definujeme pomocí "když startuje můj klon"; pozor na nekonečné množství klonů, pokud něco vytvořím, musím to také odstranit pomocí "zruš tento klon"!)
+  * Udělali jsme si jednoduchou mini-hru na chytání jablíček myší
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

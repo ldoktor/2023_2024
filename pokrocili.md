@@ -328,4 +328,10 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Shlédli jsme testovací verzi animace z materiálu z předchozí hodiny a rozhodli jsme se rozšířit příběh o honičku
   * Jedna skupina pracovala na novém scénáři, druhá začala vytvářet "assety" (rekvizity) z lega
 
+## 23. hodina
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Dodělali jsme "assety", vyzkoušeli papírové pozadí a zem
+  * Doladili jsme příběh a začali natáčet příjezd policistky
+
 <img align="right" src="../media/robots_bottom.jpg">
