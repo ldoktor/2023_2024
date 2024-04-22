@@ -263,6 +263,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Vysvětlení "klonování" objektů (vytvoříme jeden objekt, použijeme "klonuj sebe" a co se bude dít definujeme pomocí "když startuje můj klon"; pozor na nekonečné množství klonů, pokud něco vytvořím, musím to také odstranit pomocí "zruš tento klon"!)
   * Udělali jsme si jednoduchou mini-hru na chytání jablíček myší
 
+## 24. hodina
+
+* [scratch](https://scratch.mit.edu)
+  * Opět práce na našem "velkém" projetku, k chodícímu panáčkovi jsme dodělali padající objekty. Příště ještě musíme vše doladit, vychytat chybičky a přidat počítání bodů
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

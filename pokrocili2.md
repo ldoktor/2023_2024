@@ -308,4 +308,10 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Projekt Kino](../assets/microbit/kino)
   * Využili jsme pozadí od předchozí skupiny a natočili novou verzi příběhu včetně pohyblivého pozadí
 
+## 24. hodina
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Očištění fotografií (minulou hodinu nám sluníčko "přesvětlilo" některé fotky, používáme automatickou opravu barev + manuální doladění "expozice", "jasu", "kontrastu" a případně i "sytosti barev")
+  * Spojení fotek do videa v programu [Kdenlive](https://kdenlive.org/en/) - ``Projekt->Přidat obrázkovou sekvenci``, zvolit složku s fotkami, nastavit "Trvání rámce" + "Rozplynutí"
+
 <img align="right" src="../media/robots_bottom.jpg">

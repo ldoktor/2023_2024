@@ -334,4 +334,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Dodělali jsme "assety", vyzkoušeli papírové pozadí a zem
   * Doladili jsme příběh a začali natáčet příjezd policistky
 
+## 24. hodina
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Natáčení, pozor na žaluzie, jemnější krok, podaří se nám příště navázat?
+
 <img align="right" src="../media/robots_bottom.jpg">
