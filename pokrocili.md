@@ -339,4 +339,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Projekt Kino](../assets/microbit/kino)
   * Natáčení, pozor na žaluzie, jemnější krok, podaří se nám příště navázat?
 
+## 25. hodina
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Zvládli jsme natočit honičku i chycení pachatele
+
 <img align="right" src="../media/robots_bottom.jpg">

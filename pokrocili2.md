@@ -314,4 +314,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Očištění fotografií (minulou hodinu nám sluníčko "přesvětlilo" některé fotky, používáme automatickou opravu barev + manuální doladění "expozice", "jasu", "kontrastu" a případně i "sytosti barev")
   * Spojení fotek do videa v programu [Kdenlive](https://kdenlive.org/en/) - ``Projekt->Přidat obrázkovou sekvenci``, zvolit složku s fotkami, nastavit "Trvání rámce" + "Rozplynutí"
 
+## 25. hodina
+
+* [Projekt Kino](../assets/microbit/kino)
+  * "Stříhali" jsme video v programu [Kdenlive](https://kdenlive.org/en/) pomocí ``x`` a myší jsme jej rozdělili na části a ``s`` posunuli na správné místo. Někteří přidali ještě statické obrázky před/po či zrychlili/zpomalili části pomocí pravého tlačítka a ``change speed``
+  * Přidali jsme efekt ``Transformace``, který nám umožní zvětšit/posunout část videa
+  * Přidali jsme zvuky motoru, majáků a bouraček do správných míst (pravým tlačítkem jsme si přidali více stop - více souběžných zvuků)
+
 <img align="right" src="../media/robots_bottom.jpg">

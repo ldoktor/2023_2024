@@ -268,6 +268,19 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [scratch](https://scratch.mit.edu)
   * Opět práce na našem "velkém" projetku, k chodícímu panáčkovi jsme dodělali padající objekty. Příště ještě musíme vše doladit, vychytat chybičky a přidat počítání bodů
 
+## 25. hodina
+
+<a href="zacatecnici-2-09-scratch2.jpg">
+    <img align="right" src="zacatecnici-2-09-scratch2-small.jpg" style="height:85px">
+</a>
+<a href="zacatecnici-2-09-scratch.jpg">
+    <img align="right" src="zacatecnici-2-09-scratch-small.jpg" style="height:85px">
+</a>
+
+* [scratch](https://scratch.mit.edu)
+  * Dokončení naší hry, jablíčka padají, panáček chodí a umí je sbírat
+  * Kdo chtěl, mohl ještě hru vylepšovat - zvuky, pohyb panáčka, vynulování bodů, ...
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
