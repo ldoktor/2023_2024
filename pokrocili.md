@@ -344,4 +344,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Projekt Kino](../assets/microbit/kino)
   * Zvládli jsme natočit honičku i chycení pachatele
 
+## 26. hodina
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Stažení fotek z USB do počítačů
+  * Seznámení programem [Kdenlive](https://kdenlive.org/en/) který využijeme pro střih videa
+  * Spojení fotek do videa - ``Projekt->Přidat obrázkovou sekvenci``, zvolit složku s fotkami, nastavit "Trvání rámce"
+
 <img align="right" src="../media/robots_bottom.jpg">
