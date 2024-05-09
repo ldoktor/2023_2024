@@ -285,13 +285,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 * [scratch](https://scratch.mit.edu)
   * Kdo měl zájem hrál námi vyrobené hry a upravovat je (přidání cheatů, dalších zvuků, převleků...):
-    * https://scratch.mit.edu/projects/987087077
-    * https://scratch.mit.edu/projects/987088949
-    * https://scratch.mit.edu/projects/1003546041
-    * https://scratch.mit.edu/projects/987093612
-    * https://scratch.mit.edu/projects/987091457
-    * https://scratch.mit.edu/projects/987091444
-    * https://scratch.mit.edu/projects/987092684
+    * [https://scratch.mit.edu/projects/987087077](https://scratch.mit.edu/projects/987087077)
+    * [https://scratch.mit.edu/projects/987088949](https://scratch.mit.edu/projects/987088949)
+    * [https://scratch.mit.edu/projects/1003546041](https://scratch.mit.edu/projects/1003546041)
+    * [https://scratch.mit.edu/projects/987093612](https://scratch.mit.edu/projects/987093612)
+    * [https://scratch.mit.edu/projects/987091457](https://scratch.mit.edu/projects/987091457)
+    * [https://scratch.mit.edu/projects/987091444](https://scratch.mit.edu/projects/987091444)
+    * [https://scratch.mit.edu/projects/987092684](https://scratch.mit.edu/projects/987092684)
 * [Šipkovaná](https://www.umimeinformatiku.cz/sipkovana)
   * Kdo se nechtěl věnovat Scratchi, řešil logické úlohy "šipkované"
 
