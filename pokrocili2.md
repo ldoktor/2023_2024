@@ -327,4 +327,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Střihání a natahování částí filmu/zvuku pomocí ``pravého tlačítka->change speed`` (pozor, musí být za klipem dost místa na časové ose)
   * Sladění zvuku a videa
 
+## 27. hodina
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Stříhání videa a přidání titulků (průhledné, pohyblivé, ...)
+
 <img align="right" src="../media/robots_bottom.jpg">

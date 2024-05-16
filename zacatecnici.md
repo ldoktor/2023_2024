@@ -296,6 +296,16 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Kdo se nechtěl věnovat Scratchi, řešil logické úlohy "šipkované"
 
 
+## 27. hodina
+
+<a href="zacatecnici-2-11-hrm.jpg">
+    <img align="right" src="zacatecnici-2-11-hrm-small.jpg" style="height:85px">
+</a>
+
+* [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
+  * Malinko jiný styl programování, blíže k Assembleru
+  * návod ([pdf](../assets/hrm.pdf), [odt](../assets/hrm.odt)); diagram procesoru ([pdf](../assets/processor.pdf), [odt
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

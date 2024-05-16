@@ -351,4 +351,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Seznámení programem [Kdenlive](https://kdenlive.org/en/) který využijeme pro střih videa
   * Spojení fotek do videa - ``Projekt->Přidat obrázkovou sekvenci``, zvolit složku s fotkami, nastavit "Trvání rámce"
 
+## 27. hodina
+
+<a href="pokrocili-2-11-kino.jpg">
+    <img align="right" src="pokrocili-2-11-kino-small.jpg" style="height:85px">
+</a>
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Výběr a úprava fotek, které chceme ve finální sekvenci
+  * Spojení fotek do videa - ``Projekt->Přidat obrázkovou sekvenci``, zvolit složku s fotkami, nastavit "Trvání rámce"
+
+
 <img align="right" src="../media/robots_bottom.jpg">
