@@ -306,6 +306,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Malinko jiný styl programování, blíže k Assembleru
   * návod ([pdf](../assets/hrm.pdf), [odt](../assets/hrm.odt)); diagram procesoru ([pdf](../assets/processor.pdf), [odt
 
+## 28. hodina
+
+* [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
+  * Pokračovali jsme v zpracování vstupů a přidali jsme si podmíněný skok ``if zero``
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

@@ -332,4 +332,23 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Projekt Kino](../assets/microbit/kino)
   * Stříhání videa a přidání titulků (průhledné, pohyblivé, ...)
 
+## 28. hodina
+
+* [Pyladies python kurz](https://naucse.python.cz/course/pyladies/)
+  * Seznámení s příkazovou řádkou:
+    * ``pwd`` - současný adresář (print working directory)
+    * ``ls`` - zobraz soubory/složky v současném adresáři (list directory)
+    * ``cd`` - změň současný adresář (change directory)
+      * ``cd python``  (jdi do složky "python" v současném adresáři)
+      * ``cd``  (vrať se do domovské složky)
+      * ``cd -``  (vrať se do předchozího pracovního adresáře)
+    * ``mkdir $NÁZEV_ADRESÁŘE`` - vytvoř adresář (make directory)
+    * ``python3`` - spustit interpreter pythonu3
+    * šipka nahoru/dolu - předchozí/následující příkaz z historie
+    * ``ctrl+r`` - vyhledej příkaz v historii
+    * ``ctrl+c`` - přerušit
+    * Online terminál (s jistými omezeními) [zde](https://www.tutorialspoint.com/linux_terminal_online.php)
+  * Otevřeli jsme si interpret pythonu a zkusili, jak zareaguje na pár příkazů (3+4, 5/7, ahoj, ...)
+    * Online python (bez interpreteru) [zde](https://www.online-python.com/)
+
 <img align="right" src="../media/robots_bottom.jpg">
