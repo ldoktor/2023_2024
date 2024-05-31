@@ -351,4 +351,30 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Otevřeli jsme si interpret pythonu a zkusili, jak zareaguje na pár příkazů (3+4, 5/7, ahoj, ...)
     * Online python (bez interpreteru) [zde](https://www.online-python.com/)
 
+## 29. hodina
+
+* [Pyladies python kurz](https://naucse.python.cz/course/pyladies/)
+  * Krátké opakování příkazové řádky
+    * ``pwd`` - je opravdu důležité, pracovní adresář je nutno nastavit v každém otevřeném terminálu!
+    * ``mc`` - Midnight commander, klon Norton commanderu, podobné M602; lidé co pracovali v DOSu znají; užitečné na navigaci ve složkách
+    * ``touch`` - "dotknout" se souboru - zajistí, že soubor zadaný jako parametr existuje. Pokud neexistuje, vytvoří prázdný soubor.
+    * ``ctrl+d`` - ukončit/odhlásit se (např. python, nebo terminál)
+  * Python
+    * Místo interpretru jsme si vytvořili soubor (editor vim jsme zavrhli, nano také nikoho neokouzlilo, většina použila mcedit, někdo i grafický editor)
+    * Spuštění programu pomocí ``python NÁZEV_SOUBORU`` (pozor, opravdu v každém terminálu musíte být ve správném pracovním adresáři)
+    * Hlavní rozdíl oproti interpreteru je, že vyhodnocované příkazy automaticky nezobrazují výsledky/návratové hodnoty, co chceme vidět musíme "vytisknout" pomocí příkazu ``print()`` (např.: ``print(1+1)``, nebo ``print("ahoj")``)
+    * Prošli jsme si pár chybových hlášek, například zde je chyba na 4. řádku a nelíbí se mu ``ahoj``, protože to není text, ale název neexistující proměnné):
+
+```bash
+$ python tisk.py
+2
+1+1
+Ahoj
+Traceback (most recent call last):
+  File "/tmp/tisk.py", line 4, in <module>
+    print(ahoj)
+          ^^^^
+NameError: name 'ahoj' is not defined
+```
+
 <img align="right" src="../media/robots_bottom.jpg">

@@ -361,10 +361,14 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Výběr a úprava fotek, které chceme ve finální sekvenci
   * Spojení fotek do videa - ``Projekt->Přidat obrázkovou sekvenci``, zvolit složku s fotkami, nastavit "Trvání rámce"
 
-
 ## 28. hodina
 
 * [Projekt Kino](../assets/microbit/kino)
   * Vytvoření titulků a jejich vložení do videa
+
+## 29. hodina
+
+* [Projekt Kino](../assets/microbit/kino)
+  * Přidání zvuků a rendrování videa
 
 <img align="right" src="../media/robots_bottom.jpg">

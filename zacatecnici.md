@@ -311,6 +311,18 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Human Resource Machine](https://tomorrowcorporation.com/humanresourcemachine)
   * Pokračovali jsme v zpracování vstupů a přidali jsme si podmíněný skok ``if zero``
 
+## 29. hodina
+
+<a href="zacatecnici-2-13-processor.jpg">
+    <img align="right" src="zacatecnici-2-13-processor-small.jpg" style="height:85px">
+</a>
+
+* Hra na processor
+  * křídami jsme namalovali schéma jednoduchého 8bit processoru, každý dostal přidělený subsystém a hráli jsme si na to, co se stane po připojení napájení
+  * materiály ([pdf](../assets/processor.pdf), [odt](../assets/processor.ods))
+  * běh progamu řídí controller/dekodér. Po spuštění vynuluje PC a načte instrukci z adresy 0x00. Dekóduje ji, vykoná ji a zvýší PC o jedna (pokud instrukce nespecifikuje jinak, např. JMP)
+  * vše probíhá do odpojení napájení, nebo do instrukce HLT
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
