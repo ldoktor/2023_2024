@@ -377,4 +377,17 @@ Traceback (most recent call last):
 NameError: name 'ahoj' is not defined
 ```
 
+## 30. hodina
+
+* [Pyladies python kurz](https://naucse.python.cz/course/pyladies/)
+  * Krátké opakování příkazové řádky - ``pwd``, ``ls``, ``cd``, ``mc``; každý terminál pracuje zvlášť (pozor v jakém adresáři se nacházíme)
+  * Python
+    * Opáčko interpretru i tvorby skriptu
+    * Tisknutí více prvků pomocí ``print("něco", "něco dalšího", 5, 9//7)``
+    * Tvorba programu pro spočítání obvodu a obsahu čtverce (viz kurz pyladies)
+    * Načali jsme tématiku proměnných
+      * ``moje_promenna = 1``
+      * ``dalsi_promena = "ahoj"``
+    * zjistili jsme, že Python úplně neřeší druhy proměnných a pokusí se pracovat s čímkoliv (např. spočítat obvod čtverce o straně ``"ahoj"`` - výsledek je ``"ahojahojahojahoj"``)
+
 <img align="right" src="../media/robots_bottom.jpg">

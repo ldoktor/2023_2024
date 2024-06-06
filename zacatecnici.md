@@ -323,6 +323,26 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * běh progamu řídí controller/dekodér. Po spuštění vynuluje PC a načte instrukci z adresy 0x00. Dekóduje ji, vykoná ji a zvýší PC o jedna (pokud instrukce nespecifikuje jinak, např. JMP)
   * vše probíhá do odpojení napájení, nebo do instrukce HLT
 
+## 30. hodina
+
+<a href="zacatecnici-2-14-pocitac2.jpg">
+    <img align="right" src="zacatecnici-2-14-pocitac2-small.jpg" style="height:85px">
+</a>
+<a href="zacatecnici-2-14-pocitac.jpg">
+    <img align="right" src="zacatecnici-2-14-pocitac-small.jpg" style="height:85px">
+</a>
+
+* Sestavování počítače
+  * co je počítač, co je monitor, co jsou periferie?
+  * co je uvnitř "krabice"?
+    * procesor - počítá
+    * operační paměť - zapamatuje si, co se nevejde do procesoru (ale jen do vypnutí proudu)
+    * pevný disk - zapamatuje si věci na trvalo (ale trvá mu to dlouho)
+    * grafická karta - zobrazí, co jí procesor řekne; dnes bývá početně výkonější, než sám procesor (přepočítává souřadnice, osvětlení, ...)
+    * základní deska - propojuje vše dohromady, rozšiřuje porty pro připojení periferií
+    * vypínače a diody - i bez nich to běží, když má člověk šroubovák (nebo cokoliv vodivého) a ví kam šáhnout
+
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

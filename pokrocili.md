@@ -371,4 +371,22 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Projekt Kino](../assets/microbit/kino)
   * Přidání zvuků a rendrování videa
 
+## 30. hodina
+
+<a href="pokrocili-2-14-pocitac.jpg">
+    <img align="right" src="pokrocili-2-14-pocitac-small.jpg" style="height:85px">
+</a>
+
+* Sestavování počítače
+  * nejprve jsme řešili, proč dříve byly monitory/televize tak tlusté (CRT - vychýlený paprsek, LCD - malé krystalky které umožní procházet světlo nebo jej blokovat dle připojeného napětí, OLED - malinkaté svítivé diodky vedle sebe)
+  * co je počítač, co je monitor, co jsou periferie?
+  * co je uvnitř "krabice"?
+    * procesor - počítá
+    * operační paměť - zapamatuje si, co se nevejde do procesoru (ale jen do vypnutí proudu)
+    * pevný disk - zapamatuje si věci na trvalo (ale trvá mu to dlouho)
+    * grafická karta - zobrazí, co jí procesor řekne; dnes bývá početně výkonější, než sám procesor (přepočítává souřadnice, osvětlení, ...)
+    * základní deska - propojuje vše dohromady, rozšiřuje porty pro připojení periferií
+    * vypínače a diody - i bez nich to běží, když má člověk šroubovák (nebo cokoliv vodivého) a ví kam šáhnout
+
+
 <img align="right" src="../media/robots_bottom.jpg">
