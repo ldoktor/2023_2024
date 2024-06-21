@@ -390,4 +390,25 @@ NameError: name 'ahoj' is not defined
       * ``dalsi_promena = "ahoj"``
     * zjistili jsme, že Python úplně neřeší druhy proměnných a pokusí se pracovat s čímkoliv (např. spočítat obvod čtverce o straně ``"ahoj"`` - výsledek je ``"ahojahojahojahoj"``)
 
+## 31. hodina
+
+<a href="pokrocili2-2-15-python.jpg">
+    <img align="right" src="pokrocili2-2-15-python-small.jpg" style="height:85px">
+</a>
+
+* [Pyladies python kurz](https://naucse.python.cz/course/pyladies/)
+  * Příkazová řádka
+    * pozor v jaké pracovní složce jste ``pwd``, ``ls``, ``cd``, ``mc``, ``touch``
+    * v ``mc`` lze "rozbalit/sbalit" příkazovou řádku pomocí klávesové zkratky ``ctrl+o``
+  * Python
+    * Opáčko tisknutí více prvků ``print("součet 5 a 7 je", 5 + 7)``
+    * Proměnné ``promenna = "ahoj"`` - pozor na uvozovky!
+    * Vstup od uživatele ``promenna = input("Hlaska pro uzivatele")`` - do proměnné se uloží vždy text, pokud chceme číslo, musíme "přetypovat" pomocí ``int(input("Zadejte celé číslo"))``, případně ``float(input("Zadejte desetinné číslo"))`` - pozor na uzavření závorek
+
+## 32. a 33. hodina
+
+* Zjistil jsem, že jsem 7.3. a 23.5. zapomněl zapsat hodiny. Co jsme dělali se již nedovíme, berte tyto hodiny jako dár
+ek
+
+
 <img align="right" src="../media/robots_bottom.jpg">
