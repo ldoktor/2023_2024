@@ -407,8 +407,7 @@ NameError: name 'ahoj' is not defined
 
 ## 32. a 33. hodina
 
-* Zjistil jsem, že jsem 7.3. a 23.5. zapomněl zapsat hodiny. Co jsme dělali se již nedovíme, berte tyto hodiny jako dár
-ek
+* Zjistil jsem, že jsem 7.3. a 23.5. zapomněl zapsat hodiny. Co jsme dělali se již nedovíme, berte tyto hodiny jako dárek
 
 
 <img align="right" src="../media/robots_bottom.jpg">

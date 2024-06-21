@@ -397,25 +397,24 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 * Staré hry
   * vyzkoušeli jsme si cca 35 let staré dosové hry z dob, kdy ovládání myší bylo ještě v plenkách, hry se vykreslovali doslova po snímkách a herní obtížnost byla vysoká i na nejlehčí nastavení. Hry jsme spouštěli přímo pomocí DosBoxu na stránkách archive.org (projekt, který se zabývá "archivováním" internetu)
-  * [https://archive.org/details/msdos_Test_Drive_1987](Test Drive)
-  * [https://archive.org/details/msdos_Blockout_1989](Blockout)
-  * [https://archive.org/details/LEMMING_TDY](Lemings)
-  * [https://archive.org/details/msdos_Stunts_1990](Stunts)  (ochrana proti nelegálnímu kopírování pomocí slov z manuálu, odpovědi v textu pod hrou)
-  * [https://archive.org/details/PERSIA_VGA](Prince of Persia)
-  * [https://archive.org/details/msdos_The_Games_-_Winter_Challenge_1991](Winter Challange) ("cracknutá" verze, nutno otevřít a zavřít nastavení, pokud se i přesto vypne, je nutné spustit ``wintercrack`` a pak až `winter``)
-  * [https://archive.org/details/chenall_dyna#](Dyna Blaster)
-  * [https://archive.org/details/msdos_Prehistorik_2_1993](Prehistorik 2)
-  * [https://archive.org/details/msdos_The_Games_-_Summer_Challenge_1992](Summer Challange) ("cracknutá" verze, nutno otevřít a zavřít nastavení, pokud se i přesto vypne, je nutné spustit ``sumcrack`` a pak až `summer``)
-  * [https://archive.org/details/msdos_Lotus_-_The_Ultimate_Challenge_1993](Lotus)
-  * [https://archive.org/details/msdos_Space_Invaders_1995](Space Invaders)
-  * [https://archive.org/details/streetrodse](Street Rod SE)
+  * [Test Drive](https://archive.org/details/msdos_Test_Drive_1987)
+  * [Blockout](https://archive.org/details/msdos_Blockout_1989)
+  * [Lemings](https://archive.org/details/LEMMING_TDY)
+  * [Stunts](https://archive.org/details/msdos_Stunts_1990)  (ochrana proti nelegálnímu kopírování pomocí slov z manuálu, odpovědi v textu pod hrou)
+  * [Prince of Persia](https://archive.org/details/PERSIA_VGA)
+  * [Winter Challange](https://archive.org/details/msdos_The_Games_-_Winter_Challenge_1991) ("cracknutá" verze, nutno otevřít a zavřít nastavení, pokud se i přesto vypne, je nutné spustit ``wintercrack`` a pak až `winter``)
+  * [Dyna Blaster](https://archive.org/details/chenall_dyna)
+  * [Prehistorik 2](https://archive.org/details/msdos_Prehistorik_2_1993)
+  * [Summer Challange](https://archive.org/details/msdos_The_Games_-_Summer_Challenge_1992) ("cracknutá" verze, nutno otevřít a zavřít nastavení, pokud se i přesto vypne, je nutné spustit ``sumcrack`` a pak až `summer``)
+  * [Lotus](https://archive.org/details/msdos_Lotus_-_The_Ultimate_Challenge_1993)
+  * [Space Invaders](https://archive.org/details/msdos_Space_Invaders_1995)
+  * [Street Rod SE](https://archive.org/details/streetrodse)
 * Taneční podložka
   * periferie, chová se jako joystick/gamepad
   * zahráli jsme si StepManii a TuxRacer
 
 ## 32. a 33. hodina
 
-* Zjistil jsem, že jsem 7.3. a 23.5. zapomněl zapsat hodiny. Co jsme dělali se již nedovíme, berte tyto hodiny jako dár
-ek
+* Zjistil jsem, že jsem 7.3. a 23.5. zapomněl zapsat hodiny. Co jsme dělali se již nedovíme, berte tyto hodiny jako dárek
 
 <img align="right" src="../media/robots_bottom.jpg">
