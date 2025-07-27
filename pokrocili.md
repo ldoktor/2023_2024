@@ -370,6 +370,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 * [Projekt Kino](../assets/microbit/kino)
   * Přidání zvuků a rendrování videa
+  * [video](https://www.youtube.com/watch?v=Wm18k5CurfM)
 
 ## 30. hodina
 

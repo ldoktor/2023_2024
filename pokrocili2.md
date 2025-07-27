@@ -331,6 +331,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 * [Projekt Kino](../assets/microbit/kino)
   * Stříhání videa a přidání titulků (průhledné, pohyblivé, ...)
+  * [video](https://www.youtube.com/watch?v=Wm18k5CurfM)
 
 ## 28. hodina
 
