@@ -32,12 +32,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 1. hodina
 
-<a href="pokrocili-1-01-pc.jpg">
-    <img align="right" src="pokrocili-1-01-pc-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-01-plan.jpg">
-    <img align="right" src="pokrocili-1-01-plan-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-01-pc-small.jpg" data-full="pokrocili-1-01-pc.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-01-plan-small.jpg" data-full="pokrocili-1-01-plan.jpg" style="height:85px" class="obrazek">
 
 * Brainstorming ohledně projektů na tento rok, následně 3-hlasé hlasování
 * Seznámení s naší online laboratoří
@@ -51,12 +47,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 3. hodina
 
-<a href="pokrocili-1-03-microbit2.jpg">
-    <img align="right" src="pokrocili-1-03-microbit2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-03-microbit.jpg">
-    <img align="right" src="pokrocili-1-03-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-03-microbit2-small.jpg" data-full="pokrocili-1-03-microbit2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-03-microbit-small.jpg" data-full="pokrocili-1-03-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Seznámení s Micro:bitem, jaké má vstupy, jaké výstupy, který "šváb" je zodpovědný za co, kde je anténa, ...
@@ -70,21 +62,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 5. hodina
 
-<a href="exkurze5-1-05.jpg">
-    <img align="right" src="exkurze5-1-05-small.jpg" style="height:85px">
-</a>
-<a href="exkurze4-1-05.jpg">
-    <img align="right" src="exkurze4-1-05-small.jpg" style="height:85px">
-</a>
-<a href="exkurze3-1-05.jpg">
-    <img align="right" src="exkurze3-1-05-small.jpg" style="height:85px">
-</a>
-<a href="exkurze2-1-05.jpg">
-    <img align="right" src="exkurze2-1-05-small.jpg" style="height:85px">
-</a>
-<a href="exkurze-1-05.jpg">
-    <img align="right" src="exkurze-1-05-small.jpg" style="height:85px">
-</a>
+<img align="right" src="exkurze5-1-05-small.jpg" data-full="exkurze5-1-05.jpg" style="height:85px" class="obrazek">
+<img align="right" src="exkurze4-1-05-small.jpg" data-full="exkurze4-1-05.jpg" style="height:85px" class="obrazek">
+<img align="right" src="exkurze3-1-05-small.jpg" data-full="exkurze3-1-05.jpg" style="height:85px" class="obrazek">
+<img align="right" src="exkurze2-1-05-small.jpg" data-full="exkurze2-1-05.jpg" style="height:85px" class="obrazek">
+<img align="right" src="exkurze-1-05-small.jpg" data-full="exkurze-1-05.jpg" style="height:85px" class="obrazek">
 
 * Exkurze do Kina Ostrov
   * Všechny fotky ke stažení [zde](exkurze.zip)
@@ -107,9 +89,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 6. hodina
 
-<a href="pokrocili-1-06-planovani.jpg">
-    <img align="right" src="pokrocili-1-06-planovani-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-06-planovani-small.jpg" data-full="pokrocili-1-06-planovani.jpg" style="height:85px" class="obrazek">
 
 * Shrnutí poznatků z exkurze
 * Projekt Kino
@@ -122,9 +102,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 7. hodina
 
-<a href="pokrocili-1-07-kino.jpg">
-    <img align="right" src="pokrocili-1-07-kino-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-07-kino-small.jpg" data-full="pokrocili-1-07-kino.jpg" style="height:85px" class="obrazek">
 
 * Projekt Kino
   * Studenti prezentovali jejich storyboardy, objevilo se několik zajímavých námětů, nakonec jsme zvolili cestu do vesmíru
@@ -133,18 +111,14 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 8. hodina
 
-<a href="pokrocili-1-08-kino.jpg">
-    <img align="right" src="pokrocili-1-08-kino-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-08-kino-small.jpg" data-full="pokrocili-1-08-kino.jpg" style="height:85px" class="obrazek">
 
 * Projekt Kino
   * Opět jsme se rozdělili na mini-skupinky, jedna tvořila modely, druhá řezala a lepila kino
 
 ## 9. hodina
 
-<a href="pokrocili-1-09-kino.jpg">
-    <img align="right" src="pokrocili-1-09-kino-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-09-kino-small.jpg" data-full="pokrocili-1-09-kino.jpg" style="height:85px" class="obrazek">
 
 * Projekt Kino
   * Jedna skupinka vymýšlela, jak přichytit a ovládat oponu (potřebujeme provázky)
@@ -153,12 +127,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 10. hodina
 
-<a href="pokrocili-1-10-kino.jpg">
-    <img align="right" src="pokrocili-1-10-kino-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-10-kdenlive.jpg">
-    <img align="right" src="pokrocili-1-10-kdenlive-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-10-kino-small.jpg" data-full="pokrocili-1-10-kino.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-10-kdenlive-small.jpg" data-full="pokrocili-1-10-kdenlive.jpg" style="height:85px" class="obrazek">
 
 * Projek Kino
   * Jedna skupina se věnovala oponě
@@ -166,12 +136,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 11. hodina
 
-<a href="pokrocili-1-11-kino2.jpg">
-    <img align="right" src="pokrocili-1-11-kino2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-1-11-kino.jpg">
-    <img align="right" src="pokrocili-1-11-kino-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-11-kino2-small.jpg" data-full="pokrocili-1-11-kino2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-1-11-kino-small.jpg" data-full="pokrocili-1-11-kino.jpg" style="height:85px" class="obrazek">
 
 * Projekt Kino
   * Jedna skupina testovala LED diody (zvyšování napětí do rozsvícení diody a postupné zvyšování napětí dokud plynule roste jas beze změny barvy; kontrola procházejícího proudu, rozhodně ne nad 30mA!)
@@ -195,9 +161,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 14. hodina
 
-<a href="pokrocili-1-14-kino.jpg">
-    <img align="right" src="pokrocili-1-14-kino-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-14-kino-small.jpg" data-full="pokrocili-1-14-kino.jpg" style="height:85px" class="obrazek">
 
 * [Projekt Kino](../assets/microbit/kino)
   * Připojili jsme si k microbitu diodu na určitý pin a otestovali jsme její ovládání
@@ -230,12 +194,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 18. hodina
 
-<a href="pokrocili-2-02-krita.jpg">
-    <img align="right" src="pokrocili-2-02-krita-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-02-kino.jpg">
-    <img align="right" src="pokrocili-2-02-kino-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-02-krita-small.jpg" data-full="pokrocili-2-02-krita.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-02-kino-small.jpg" data-full="pokrocili-2-02-kino.jpg" style="height:85px" class="obrazek">
 
 * [Projekt Kino](../assets/microbit/kino)
   * Otestování propojení zemí pomocí multimetru
@@ -245,45 +205,19 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 19. hodina
 
-<a href="pokrocili-2-03-kino.jpg">
-    <img align="right" src="pokrocili-2-03-kino-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-03-malovani-mys1.jpg">
-    <img align="right" src="pokrocili-2-03-malovani-mys1-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-03-malovani-mys2.jpg">
-    <img align="right" src="pokrocili-2-03-malovani-mys2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-03-malovani-mys3.jpg">
-    <img align="right" src="pokrocili-2-03-malovani-mys3-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-03-malovani-mys4.jpg">
-    <img align="right" src="pokrocili-2-03-malovani-mys4-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-03-malovani-mys5.jpg">
-    <img align="right" src="pokrocili-2-03-malovani-mys5-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-03-malovani-tablet1.jpg">
-    <img align="right" src="pokrocili-2-03-malovani-tablet1-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-03-malovani-tablet2.jpg">
-    <img align="right" src="pokrocili-2-03-malovani-tablet2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-03-malovani-tablet3.jpg">
-    <img align="right" src="pokrocili-2-03-malovani-tablet3-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-03-malovani-tablet4.jpg">
-    <img align="right" src="pokrocili-2-03-malovani-tablet4-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-03-malovani-tablet5.jpg">
-    <img align="right" src="pokrocili-2-03-malovani-tablet5-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-03-malovani-tablet-ukazka.jpg">
-    <img align="right" src="pokrocili-2-03-malovani-tablet-ukazka-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-03-malovani-zadani.jpg">
-    <img align="right" src="pokrocili-2-03-malovani-zadani-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-03-kino-small.jpg" data-full="pokrocili-2-03-kino.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-03-malovani-mys1-small.jpg" data-full="pokrocili-2-03-malovani-mys1.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-03-malovani-mys2-small.jpg" data-full="pokrocili-2-03-malovani-mys2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-03-malovani-mys3-small.jpg" data-full="pokrocili-2-03-malovani-mys3.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-03-malovani-mys4-small.jpg" data-full="pokrocili-2-03-malovani-mys4.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-03-malovani-mys5-small.jpg" data-full="pokrocili-2-03-malovani-mys5.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-03-malovani-tablet1-small.jpg" data-full="pokrocili-2-03-malovani-tablet1.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-03-malovani-tablet2-small.jpg" data-full="pokrocili-2-03-malovani-tablet2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-03-malovani-tablet3-small.jpg" data-full="pokrocili-2-03-malovani-tablet3.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-03-malovani-tablet4-small.jpg" data-full="pokrocili-2-03-malovani-tablet4.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-03-malovani-tablet5-small.jpg" data-full="pokrocili-2-03-malovani-tablet5.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-03-malovani-tablet-ukazka-small.jpg" data-full="pokrocili-2-03-malovani-tablet-ukazka.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-03-malovani-zadani-small.jpg" data-full="pokrocili-2-03-malovani-zadani.jpg" style="height:85px" class="obrazek">
 
 * [Projekt Kino](../assets/microbit/kino)
   * Kontrola zapojení pomocí multimetru
@@ -297,12 +231,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 20. hodina
 
-<a href="pokrocili-2-04-kino2.jpg">
-    <img align="right" src="pokrocili-2-04-kino2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-04-kino.jpg">
-    <img align="right" src="pokrocili-2-04-kino-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-04-kino2-small.jpg" data-full="pokrocili-2-04-kino2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-04-kino-small.jpg" data-full="pokrocili-2-04-kino.jpg" style="height:85px" class="obrazek">
 
 * [Projekt Kino](../assets/microbit/kino)
   * Výměna ledek za programovatelný led-pásek (ledky měli nedostatečný svit)
@@ -310,9 +240,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 21. hodina
 
-<a href="pokrocili-2-05-kino.jpg">
-    <img align="right" src="pokrocili-2-05-kino-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-05-kino-small.jpg" data-full="pokrocili-2-05-kino.jpg" style="height:85px" class="obrazek">
 
 * [Projekt Kino](../assets/microbit/kino)
   * Prošli jsme si jak funguje [skript](../assets/microbit/kino#nat%C3%A1%C4%8Den%C3%AD-stop-motion-animace), který po stisku klávesy `ENTER` pořídil fotografii na telefonu, stáhl ji do počítače, zobrazil ji a zároveň kombinaci předchozí a současné fotky vedle sebe.
@@ -320,9 +248,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 22. hodina
 
-<a href="pokrocili-2-06-kino.jpg">
-    <img align="right" src="pokrocili-2-06-kino-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-06-kino-small.jpg" data-full="pokrocili-2-06-kino.jpg" style="height:85px" class="obrazek">
 
 * [Projekt Kino](../assets/microbit/kino)
   * Shlédli jsme testovací verzi animace z materiálu z předchozí hodiny a rozhodli jsme se rozšířit příběh o honičku
@@ -353,9 +279,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 27. hodina
 
-<a href="pokrocili-2-11-kino.jpg">
-    <img align="right" src="pokrocili-2-11-kino-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-11-kino-small.jpg" data-full="pokrocili-2-11-kino.jpg" style="height:85px" class="obrazek">
 
 * [Projekt Kino](../assets/microbit/kino)
   * Výběr a úprava fotek, které chceme ve finální sekvenci
@@ -374,9 +298,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 30. hodina
 
-<a href="pokrocili-2-14-pocitac.jpg">
-    <img align="right" src="pokrocili-2-14-pocitac-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-14-pocitac-small.jpg" data-full="pokrocili-2-14-pocitac.jpg" style="height:85px" class="obrazek">
 
 * Sestavování počítače
   * nejprve jsme řešili, proč dříve byly monitory/televize tak tlusté (CRT - vychýlený paprsek, LCD - malé krystalky které umožní procházet světlo nebo jej blokovat dle připojeného napětí, OLED - malinkaté svítivé diodky vedle sebe)
@@ -392,9 +314,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 31. hodina
 
-<a href="pokrocili-2-15-stare-hry.jpg">
-    <img align="right" src="pokrocili-2-15-stare-hry-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-15-stare-hry-small.jpg" data-full="pokrocili-2-15-stare-hry.jpg" style="height:85px" class="obrazek">
 
 * Staré hry
   * vyzkoušeli jsme si cca 35 let staré dosové hry z dob, kdy ovládání myší bylo ještě v plenkách, hry se vykreslovali doslova po snímkách a herní obtížnost byla vysoká i na nejlehčí nastavení. Hry jsme spouštěli přímo pomocí DosBoxu na stránkách archive.org (projekt, který se zabývá "archivováním" internetu)
@@ -417,5 +337,14 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 ## 32. a 33. hodina
 
 * Zjistil jsem, že jsem 7.3. a 23.5. zapomněl zapsat hodiny. Co jsme dělali se již nedovíme, berte tyto hodiny jako dárek
+
+<div id="overlay" class="overlay hidden">
+  <span id="prev" class="nav">&#9664;</span>
+  <img id="overlay-img" src="" alt="Obrázek">
+  <span id="next" class="nav">&#9654;</span>
+  <span id="close" class="close">&times;</span>
+</div>
+<link rel="stylesheet" href="/assets/gallery.css">
+<script src="/assets/gallery.js"></script>
 
 <img align="right" src="../media/robots_bottom.jpg">
